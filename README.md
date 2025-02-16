@@ -5,10 +5,15 @@ It provides basic **CRUD operations** (Create, Read, Update, Delete) using **in-
 
 ## 🚀 Features  
 ✅ Retrieve a list of books
-✅ Get details of a specific book by ID  
+
+✅ Get details of a specific book by ID 
+
 ✅ Add new books to the collection   
+
 ✅ Update existing book information   
+
 ✅ Delete books from the collection 
+
 ✅ RESTful design with proper **HTTP status codes**  
 
 ## 🛠️ Tech Stack  
